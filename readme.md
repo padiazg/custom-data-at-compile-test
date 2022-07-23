@@ -4,7 +4,7 @@ Reference
 https://goenning.net/2017/01/25/adding-custom-data-go-binaries-compile-time/
 
 # Description
-The ides is to set the values for `buildTime`, `commitHash` and `version` at compile time using the **-ldflags** compiler flag
+The idea is to set the values for `buildTime`, `commitHash` and `version` at compile time using the **-ldflags** compiler flag
 
 ## Source of values
 ### version
